@@ -1,4 +1,6 @@
 # tiktok03
+![ad](https://github.com/yangcongbb/-vue--douyin-/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190812174420.png)
+![ad](https://github.com/yangcongbb/-vue--douyin-/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190812174416.png)
 
 > A Vue.js project
 
